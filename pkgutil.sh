@@ -1,0 +1,1 @@
+pkgutil --expand $PATH $DESTINATIONFILE
