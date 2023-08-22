@@ -1,6 +1,6 @@
 # pkgexpand
 Expanding pkg files on macOS without using default app (Installer).
-
+This may be because you don't have adiministrator permissions and/or sudo on a managed device, or because you want an alternative method to install .pkg apps without using the default install. 
 # Instructions
 ***NOTE THAT ALL FILE PATHS AND SHELL CODE ARE ONLY EXAMPLES. PLEASE CHANGE THE CODE TO FIT YOUR CIRCUMSTANCES.***
 1. Download pkgutil.sh from this repository.
