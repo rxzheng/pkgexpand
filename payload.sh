@@ -1,0 +1,1 @@
+tar -xvf $PAYLOAD -C $INSTALLLOCATION
